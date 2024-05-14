@@ -8,6 +8,4 @@ ejemplo lololo
 Documentacion (dev1)
 texto interesante
 
-nuevos cambios chulos r3r34t43
-
-jajajajja
+cambios epicoss
